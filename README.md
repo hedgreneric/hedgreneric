@@ -1,1 +1,1 @@
-[![MasterHead](~/Downloads/banner.png)]([https://github.com/hedgreneric/])
+[![MasterHead](~/Downloads/banner.png)]
